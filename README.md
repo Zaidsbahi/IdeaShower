@@ -1,4 +1,4 @@
-# IdeaRain
+# IdeaShower
 
 E - To rotate Right
 
